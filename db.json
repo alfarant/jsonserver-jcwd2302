@@ -437,14 +437,6 @@
     }
   ],
   "cart": [
-    {
-      "idProduct": 1,
-      "indexSize": 0,
-      "indexTopping": 0,
-      "indexSugar": 0,
-      "quantity": 6,
-      "userId": null,
-      "id": 1
-    }
+   
   ]
 }
